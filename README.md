@@ -1,2 +1,2 @@
 # skullibrista-game
-ComerMotion
+CoreMotion
